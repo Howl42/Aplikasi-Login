@@ -36,3 +36,6 @@ jgdsjfajdf tes conflict merge
 1. commit branch development
 2. pull ke brach main
 3. merge
+
+# tes pull
+1. commit pertama
