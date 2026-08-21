@@ -8,4 +8,7 @@ Alur Fitur Login:
 4. Memasukkan nama ibu untuk validasi.
 5. Menampilkan halaman home.
 
-==JHADSFH
+#INI HEADING
+--INI SUBHEADING
+*INI ITALIC
+-INI LIST
