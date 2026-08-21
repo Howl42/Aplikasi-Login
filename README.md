@@ -30,3 +30,9 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar tipe data koleksi, seperti list, set, dan map.
 
 tes commit
+
+
+## LATIHAN MERGE ke Branch main
+1. commit branch development
+2. pull ke brach main
+3. merge
