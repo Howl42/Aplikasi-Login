@@ -36,3 +36,5 @@ tes commit
 1. commit branch development
 2. pull ke brach main
 3. merge
+
+jgdsjfajdf tes conflict merge
