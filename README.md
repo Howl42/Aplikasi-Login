@@ -29,12 +29,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 * Belajar tipe data koleksi, seperti list, set, dan map.
 
-tes commit
+jgdsjfajdf tes conflict merge
 
 
 ## LATIHAN MERGE ke Branch main
 1. commit branch development
 2. pull ke brach main
 3. merge
-
-jgdsjfajdf tes conflict merge
