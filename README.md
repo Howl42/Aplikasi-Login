@@ -9,6 +9,9 @@ Alur Fitur Login:
 5. Menampilkan halaman home.
 
 #INI HEADING
+
 --INI SUBHEADING
+
 *INI ITALIC
+
 -INI LIST
