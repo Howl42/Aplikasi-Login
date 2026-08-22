@@ -12,9 +12,7 @@ Alur Fitur Login:
 
 -- INI SUBHEADING
 
-* INI ITALIC
-
-- INI LIST
+## melakukan pull request ke akun utama
 
 # Pengalaman Belajar di Dicoding
 
